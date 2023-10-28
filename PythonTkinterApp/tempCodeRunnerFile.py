@@ -1,1 +1,1 @@
-getWeather
+apiWeather
